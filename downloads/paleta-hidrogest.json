@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Azul profundo",
+    "hex": "#153D56",
+    "pantone": "Pantone 534 C",
+    "rgb": "21, 61, 86",
+    "cmyk": "95, 72, 44, 35",
+    "role": "Secund?ria"
+  },
+  {
+    "name": "Azul ?gua",
+    "hex": "#55BBDF",
+    "pantone": "Pantone 2190 C",
+    "rgb": "85, 187, 223",
+    "cmyk": "60, 7, 6, 0",
+    "role": "Principal"
+  },
+  {
+    "name": "Verde profundo",
+    "hex": "#00524D",
+    "pantone": "Pantone 330 C",
+    "rgb": "0, 82, 77",
+    "cmyk": "91, 46, 64, 37",
+    "role": "Secund?ria"
+  },
+  {
+    "name": "Verde natural",
+    "hex": "#659368",
+    "pantone": "Pantone 2264 C",
+    "rgb": "101, 147, 104",
+    "cmyk": "64, 25, 71, 6",
+    "role": "Principal"
+  },
+  {
+    "name": "Verde n?voa",
+    "hex": "#CFDDBA",
+    "pantone": "Pantone 7485 C",
+    "rgb": "207, 221, 186",
+    "cmyk": "19, 4, 31, 0",
+    "role": "Secund?ria"
+  },
+  {
+    "name": "Branco",
+    "hex": "#FFFFFF",
+    "pantone": "Pantone White",
+    "rgb": "255, 255, 255",
+    "cmyk": "0, 0, 0, 0",
+    "role": "Principal"
+  }
+]
