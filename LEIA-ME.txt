@@ -1,9 +1,2 @@
-SITE ESTÁTICO HIDROGEST
-
-1. O arquivo inicial do site é index.html.
-2. Para visualizar, abra index.html no navegador.
-3. Para publicar, envie TODO o conteúdo desta pasta para a raiz da hospedagem,
-   mantendo as pastas assets e downloads ao lado do index.html.
-4. Esta versão não precisa de Node.js, instalação ou comando de build.
-5. O arquivo script.js mantém a cópia de cores, animações e troca das variações
-   horizontal/vertical dos logos.
+wrangler.json
+.dev.vars
