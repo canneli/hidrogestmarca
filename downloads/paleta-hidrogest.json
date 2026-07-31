@@ -5,10 +5,10 @@
     "pantone": "Pantone 534 C",
     "rgb": "21, 61, 86",
     "cmyk": "95, 72, 44, 35",
-    "role": "Secund?ria"
+    "role": "Principal"
   },
   {
-    "name": "Azul ?gua",
+    "name": "Azul água",
     "hex": "#55BBDF",
     "pantone": "Pantone 2190 C",
     "rgb": "85, 187, 223",
@@ -21,7 +21,7 @@
     "pantone": "Pantone 330 C",
     "rgb": "0, 82, 77",
     "cmyk": "91, 46, 64, 37",
-    "role": "Secund?ria"
+    "role": "Secundária"
   },
   {
     "name": "Verde natural",
@@ -29,15 +29,15 @@
     "pantone": "Pantone 2264 C",
     "rgb": "101, 147, 104",
     "cmyk": "64, 25, 71, 6",
-    "role": "Principal"
+    "role": "Secundária"
   },
   {
-    "name": "Verde n?voa",
+    "name": "Verde névoa",
     "hex": "#CFDDBA",
     "pantone": "Pantone 7485 C",
     "rgb": "207, 221, 186",
     "cmyk": "19, 4, 31, 0",
-    "role": "Secund?ria"
+    "role": "Apoio"
   },
   {
     "name": "Branco",
@@ -45,6 +45,6 @@
     "pantone": "Pantone White",
     "rgb": "255, 255, 255",
     "cmyk": "0, 0, 0, 0",
-    "role": "Principal"
+    "role": "Neutra"
   }
 ]

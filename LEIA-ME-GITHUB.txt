@@ -1,0 +1,14 @@
+HIDROGEST — ARQUIVOS PARA GITHUB PAGES
+
+1. Extraia o arquivo ZIP.
+2. Envie TODOS os arquivos extraídos para a raiz do repositório.
+   O index.html deve ficar no mesmo nível das pastas assets e downloads.
+3. No GitHub, abra Settings > Pages.
+4. Em Build and deployment, selecione Deploy from a branch.
+5. Escolha a branch main, a pasta /(root) e clique em Save.
+
+Importante: não envie a pasta hidrogest-github-pages como uma subpasta.
+Envie o conteúdo dela. O index.html precisa estar na raiz publicada.
+
+O site usa caminhos relativos e funciona mesmo quando o endereço do GitHub
+Pages inclui o nome do repositório.
